@@ -1,5 +1,5 @@
-# financial-data-analysis-project
-# Kalman Filter-Based Dynamic Beta Modeling for Financial Time Series
+# Financial Data Analysis Project
+# Kalman Filter Based Dynamic Beta Modeling for Financial Time Series
 
 ## Project Overview
 
